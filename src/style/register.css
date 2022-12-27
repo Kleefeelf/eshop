@@ -1,0 +1,66 @@
+h1 {
+    font-size: 2vw;
+}
+
+.login-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2vw;
+    color: white;
+}
+
+.username {
+    width: 15vw;
+    height: 1.5vw;
+    margin-bottom: 2vw;
+}
+
+.login-email {
+    width: 15vw;
+    height: 1.5vw;
+    margin-bottom: 2vw;
+}
+
+.password {
+    width: 15vw;
+    height: 1.5vw;
+    margin-bottom: 2vw;
+}
+
+.repass {
+    width: 15vw;
+    height: 1.5vw;
+    margin-bottom: 2vw;
+}
+
+.sign-in {
+    display: flex;
+    vertical-align: center;
+    justify-content: center;
+    font-family: Bebas Neue;
+    letter-spacing: 0.2vw;
+    font-size: 1vw;
+    padding: 0.5vw 2vw;
+    border-color: #d42d2d;
+    background-color: transparent;
+    color: white;
+    transition: all ease 0.2s;
+}
+
+.sign-in:hover {
+    background-color: #d42d2d;
+    color: white
+}
+
+.sign-in:active {
+    transform: scale(0.97);
+}
+
+.sign-in-wrapper {
+    display: grid;
+    row-gap: 2vw;
+    justify-content: center;
+    margin-top: 2vw;
+}
+

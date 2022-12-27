@@ -1,0 +1,22 @@
+.footer {
+
+    bottom: 0;
+    margin: 0 auto 2vw auto;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-weight: 200;
+    font-size: 1vw;
+    
+}
+
+.footer hr {
+    height: 0vw;
+    margin-top: 7vw;
+    
+    width: 58%;
+}
+
+.copyright {
+    margin-top: 1.8vw;
+}
